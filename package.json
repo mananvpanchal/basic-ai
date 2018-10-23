@@ -1,0 +1,15 @@
+{
+  "name": "basic-ai",
+  "version": "1.0.0",
+  "description": "Basic AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic",
+    "ai"
+  ],
+  "author": "Manan V. Panchal <mananvpanchal@gmail.com>",
+  "license": "ISC"
+}
